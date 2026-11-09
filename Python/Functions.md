@@ -1,0 +1,1 @@
+Always consider all return types if there are multiple return types for a function, and remember the default is `None` and don't avoid it , use an explicit expression for it.
